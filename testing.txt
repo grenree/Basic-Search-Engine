@@ -1,0 +1,20 @@
+sjng1@odin
+sjng1@circinus-16
+
+# check if path exists
+        if parsed.path in queryDict:
+            return False
+        else:
+            queryDict[parsed.path] = 1
+        
+
+# check if path exists
+        if parsed.netloc in pathDict:
+            if parsed.path in pathDict.get(parsed.netloc):
+                return False
+            else:
+                pathDict[parsed.netloc].append(parsed.path)
+        else:
+            pathDict[parsed.netloc] = [parsed.path]
+
+Circinus-16

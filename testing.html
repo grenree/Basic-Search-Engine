@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>
+   Donald Bren School of Information and Computer Sciences @ University of California, Irvine
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" type="text/javascript">
+  </script>
+  <script src="https://use.fontawesome.com/f443bac96a.js" type="text/javascript">
+  </script>
+  <meta content="vNW0OFr6UaTX3WfZ5Ws9uySKBwiwm55zva02sUHfSU0" name="google-site-verification"/>
+  <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet"/>
+  <link href="bin/styles/stylesheet_index2018_addon.css" rel="stylesheet" type="text/css"/>
+  <meta content="Mon, 21 Oct 2019 08:47:38 -0380" name="date"/>
+ </head>
+ <body>
+  <script language="JavaScript" type="text/javascript">
+   <!-- 
+    function clear_textbox() {
+        if (document.searchform.q.value == "Search ICS")
+            document.searchform.q.value = "";
+    }
+    -->
+  </script>
+  <!--<h1 class="ahem">This site will look much better in a browser that supports <a href="http://www.webstandards.org/upgrade/" title="Download a browser that complies with Web standards.">web standards</a>, but it is accessible to any browser or Internet device.</h1>-->
+  <div id="wrapper">
+   <div id="header-main">
+    <div class="container">
+     <div id="logo-container">
+      <a href="/" title="UCI - Donald Bren School of Information and Computer Sciences Logo">
+       <div class="header-logo01 w-100 d-none d-md-block">
+        <img alt="" src="/bin/img/logos/UCI17_Bren_ICS_2L_white-1200.png"/>
+       </div>
+       <div class="header-logo02 d-block w-100 d-md-none text-center">
+        <img alt="" src="/bin/img/logos/UCI17_Bren_ICS_2L_white-1200.png"/>
+       </div>
+      </a>
+     </div>
+    </div>
+   </div>
+   <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-ics-yellow">
+    <div class="container">
+     <button aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarNavDropdown" data-toggle="collapse" type="button">
+      <span class="navbar-toggler-icon">
+      </span>
+     </button>
+     <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+       <li class="nav-link nav-link-home d-block w-100 d-md-none">
+        <a href="/">
+         HOME
+        </a>
+       </li>
+       <li class="nav-item dropdown">
+        <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" href="/about/" id="navbarDropdownMenuLink-about">
+         ABOUT
+        </a>
+        <ul aria-labelledby="navbarDropdownMenuLink-about" class="dropdown-menu">
+         <li>
+          <a class="dropdown-item" href="/about/">
+           About the School
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/about/about_deanmsg.php">
+           Dean's Welcome
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/about/about_factsfigures.php">
+           Facts and Figures
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/about/brenhall/index.php">
+           Donald Bren Hall
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/about/visit/index.php">
+           Visit the Bren School
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/about/equity/">
+           Equity &amp; Diversity
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/about/about_contact.php">
+           Contact Us
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-item dropdown">
+        <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" href="/dept/" id="navbarDropdownMenuLink-departments">
+         DEPARTMENTS
+        </a>
+        <ul aria-labelledby="navbarDropdownMenuLink-research" class="dropdown-menu">
+         <li>
+          <a class="dropdown-item" href="//www.cs.uci.edu">
+           Computer Science
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="//www.informatics.uci.edu">
+           Informatics
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="//www.stat.uci.edu">
+           Statistics
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-item dropdown">
+        <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" href="/faculty/area/" id="navbarDropdownMenuLink-research">
+         RESEARCH
+        </a>
+        <ul aria-labelledby="navbarDropdownMenuLink-faculty" class="dropdown-menu">
+         <li>
+          <a class="dropdown-item" href="/faculty/area/">
+           Research Areas
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/faculty/centers/">
+           Research Centers
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/faculty/highlights/">
+           Research Highlights
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-item dropdown">
+        <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink-students">
+         STUDENTS
+        </a>
+        <ul aria-labelledby="navbarDropdownMenuLink-students" class="dropdown-menu">
+         <li class="dropdown-submenu">
+          <a class="dropdown-item dropdown-toggle" href="/grad/admissions/index">
+           Graduate ▸
+          </a>
+          <ul class="dropdown-menu dropdown-menu-color">
+           <li>
+            <a class="dropdown-item" href="/grad/admissions/index">
+             Prospective Students
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/grad/admissions/Prospective_ApplicationProcess.php">
+             How to Apply
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/grad/degrees/index">
+             Programs of Study
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/grad/courses/index-course">
+             Academic Year Plan
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/grad/forms/index">
+             Forms
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/grad/policies/index">
+             Policies
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/grad/funding/index">
+             Funding &amp; Housing
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/computing/account/new">
+             Computing Support
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/grad/resources">
+             Campus Resources
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/about/visit/index">
+             Visit the Bren School
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="//www.ics.uci.edu/bin/pdf/grad/F19%20Graduate%20Student%20Handbook.pdf">
+             Graduate Student Handbook
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/grad/index">
+             Contact
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li class="dropdown-submenu">
+          <a class="dropdown-item dropdown-toggle" href="/ugrad/">
+           Undergraduate ▸
+          </a>
+          <ul class="dropdown-menu dropdown-menu-color">
+           <li>
+            <a class="dropdown-item" href="/ugrad/index">
+             Contact
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/sao/index">
+             Academic Advising
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/sao/Course_updates">
+             Course Updates
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/courses/index-course">
+             Academic Year Plan
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/QA_Petitions">
+             Petitions
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/degrees/index.php">
+             ICS Majors
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/degrees/Minors">
+             ICS Minors
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/policies/Academic_Honesty">
+             Policies: Academic Integrity
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/policies/Academic_Standing">
+             Policies: Academic Standing
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/policies/Add_Drop_ChangeOption">
+             Policies: Add, drop, &amp; change options
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/policies/Course_Outside_UCI">
+             Policies: Coursework outside UCI
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/policies/Grade_Options">
+             Policies: Grade policy
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/policies/Laptop_ComputerUse">
+             Policies: Laptop &amp; computer use
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/policies/Withdrawal_Readmission">
+             Policies: Withdrawal/Readmission
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/policies/CS199_IN4MATX199">
+             Policies: CS 199 / IN4MATX 199 Courses
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/QA_Graduation">
+             Graduation
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/resources/index">
+             ICS Student Life
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/ugrad/sao/SAO_Events.php">
+             Upcoming Events
+            </a>
+           </li>
+           <li>
+            <a class="dropdown-item" href="/computing/account/new">
+             Computing Support
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/community/scholarships/index">
+           Scholarships &amp; Fellowships
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="//uci.joinhandshake.com/login">
+           Student Jobs &amp; Internships
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-item dropdown">
+        <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" href="/about/search/" id="navbarDropdownMenuLink-people">
+         PEOPLE
+        </a>
+        <ul aria-labelledby="navbarDropdownMenuLink-people" class="dropdown-menu">
+         <li>
+          <a class="dropdown-item" href="/faculty/">
+           Faculty
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/about/search/index.php">
+           Staff
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/about/search/search_graduate_all.php">
+           Graduate Students
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-item dropdown">
+        <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink-news_events">
+         NEWS &amp; EVENTS
+        </a>
+        <ul aria-labelledby="navbarDropdownMenuLink-news_events" class="dropdown-menu">
+         <li>
+          <a class="dropdown-item" href="/community/news/">
+           Newsroom
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="//calendar.ics.uci.edu/calendar.php">
+           Events
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/social/">
+           Social Media
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/community/news/press/">
+           Press Releases
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/about/annualreport/">
+           Annual Reports
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-item dropdown">
+        <a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" href="/involved/" id="navbarDropdownMenuLink-get_involved">
+         GET INVOLVED
+        </a>
+        <ul aria-labelledby="navbarDropdownMenuLink-get_involved" class="dropdown-menu">
+         <li>
+          <a class="dropdown-item" href="//secure.connect.uci.edu/s/1735/interior-1col.aspx?sid=1735&amp;gid=3&amp;pgid=801&amp;dids=79">
+           Make a Gift
+           <i class="fas fa-gift">
+           </i>
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/community/alumni/">
+           Alumni
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/involved/leadership_council">
+           Leadership Council
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/involved/corporate_partner">
+           Corporate Partners
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="//www.informatics.uci.edu/support/provide-projects/" rel="nofollow noopener" target="_blank">
+           Sponsor Projects
+          </a>
+         </li>
+         <li>
+          <a class="dropdown-item" href="/community/events/competition/">
+           Product Development Competition
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </div>
+     <div class="float-right">
+      <form action="//search.uci.edu/" class="form-inline my-2 my-md-0" id="searchform" method="get" name="searchform">
+       <input name="client" type="hidden" value="uci_full"/>
+       <input name="site" type="hidden" value="uci_full"/>
+       <input name="proxystylesheet" type="hidden" value="uci_full"/>
+       <input name="ie" type="hidden" value="UTF-8"/>
+       <input name="oe" type="hidden" value="UTF-8"/>
+       <input name="num" type="hidden" value="10"/>
+       <input name="btnG" type="hidden" value="Search+UC+Irvine"/>
+       <input name="as_occt" type="hidden" value="any"/>
+       <input name="as_dt" type="hidden" value="i"/>
+       <input name="as_sitesearch" type="hidden" value="ics.uci.edu"/>
+       <input name="collection" type="hidden" value="37">
+        <input autocomplete="off" class="form-control" id="query" maxlength="300" name="q" onfocus="clear_textbox()" placeholder="Search ICS" size="9" title="Search ICS Website" type="text"/>
+        <div align="center" class="auto_complete" height="500" id="results" maxlength="500" size="100" style="position: absolute; display: none;">
+        </div>
+        <input id="results_selected" name="sel" type="hidden"/>
+        <input name="start_pb" type="hidden" value="1"/>
+       </input>
+      </form>
+     </div>
+    </div>
+   </nav>
+   <div id="mainbox">
+    <!--START/carousel slider-->
+    <!--START/carousel slider-->
+    <div class="carousel slide" data-ride="carousel" id="carouselExampleIndicators">
+     <ol class="carousel-indicators">
+      <li class="active" data-slide-to="0" data-target="#carouselExampleIndicators">
+      </li>
+      <li data-slide-to="1" data-target="#carouselExampleIndicators">
+      </li>
+      <li data-slide-to="2" data-target="#carouselExampleIndicators">
+      </li>
+     </ol>
+     <div class="carousel-inner">
+      <div class="carousel-item active">
+       <img alt="slide-191014" class="w-100 d-none d-md-block" src="https://www.ics.uci.edu/bin/img/homeBanners/191014-NewFaculty-3840x1280.jpg"/>
+       <img alt="slide-191014" class="d-block w-100 d-md-none" src="https://www.ics.uci.edu/bin/img/homeBanners/191014-NewFaculty-800x400.jpg"/>
+       <div class="carousel-caption d-block">
+        <h5>
+         ICS Welcomes 8 New Faculty for 2019
+        </h5>
+        <p class="d-none d-md-block">
+        </p>
+        <a aria-pressed="true" class="btn btn-light btn-sm" href="https://www.ics.uci.edu/community/news/view_news?id=1632" role="button">
+         Read More
+        </a>
+       </div>
+      </div>
+      <div class="carousel-item">
+       <img alt="slide-191014" class="w-100 d-none d-md-block" src="https://www.ics.uci.edu/bin/img/homeBanners/191014-mswe-3840x1280.jpg"/>
+       <img alt="slide-191014" class="d-block w-100 d-md-none" src="https://www.ics.uci.edu/bin/img/homeBanners/191014-mswe-800x400.jpg"/>
+       <div class="carousel-caption d-block">
+        <h5>
+         New Professional Graduate Program Launches to Train Tomorrow’s Software Engineers
+        </h5>
+        <p class="d-none d-md-block">
+        </p>
+        <a aria-pressed="true" class="btn btn-light btn-sm" href="https://www.ics.uci.edu/community/news/view_news?id=1623" role="button">
+         Read More
+        </a>
+       </div>
+      </div>
+      <div class="carousel-item">
+       <img alt="slide-190715" class="w-100 d-none d-md-block" src="https://www.ics.uci.edu/bin/img/homeBanners/190715-rubiks-3840x1280-01.jpg"/>
+       <img alt="slide-190715" class="d-block w-100 d-md-none" src="https://www.ics.uci.edu/bin/img/homeBanners/190715-rubiks-800x400-01.jpg"/>
+       <div class="carousel-caption d-block">
+        <h5>
+         UCI researchers’ deep learning algorithm solves Rubik’s Cube faster than any human
+        </h5>
+        <p class="d-none d-md-block">
+        </p>
+        <a aria-pressed="true" class="btn btn-light btn-sm" href="https://news.uci.edu/2019/07/15/uci-researchers-deep-learning-algorithm-solves-rubiks-cube-faster-than-any-human/" role="button">
+         Read More
+        </a>
+       </div>
+      </div>
+     </div>
+     <a class="carousel-control-prev" data-slide="prev" href="#carouselExampleIndicators" role="button">
+      <span aria-hidden="true" class="carousel-control-prev-icon">
+      </span>
+      <span class="sr-only">
+       Previous
+      </span>
+     </a>
+     <a class="carousel-control-next" data-slide="next" href="#carouselExampleIndicators" role="button">
+      <span aria-hidden="true" class="carousel-control-next-icon">
+      </span>
+      <span class="sr-only">
+       Next
+      </span>
+     </a>
+    </div>
+    <!--End/carousel slider-->
+    <!--End/carousel slider-->
+   </div>
+  </div>
+  <section id="mid-section">
+   <div class="container">
+    <div class="row">
+     <div class="homepage-col col-md-4" id="new_news_list">
+      <!--START:frontpage 1st column-->
+      <h3>
+       News Highlights
+      </h3>
+      <ul>
+       <!-- -->
+       <li>
+        <a href="//www.ics.uci.edu/community/news/view_news?id=1638">
+         Registration Open for the 2019 Opioid Hackathon
+        </a>
+        <br/>
+        <span class="news-date">
+         October 16, 2019
+        </span>
+       </li>
+       <li>
+        <a href="//www.ics.uci.edu/community/news/view_news?id=1637">
+         Apply for the New Rosalva Gallardo Valencia Graduate Award in ICS by Oct. 31
+        </a>
+        <br/>
+        <span class="news-date">
+         October 16, 2019
+        </span>
+       </li>
+       <li>
+        <a href="//www.ics.uci.edu/community/news/view_news?id=1635">
+         Sergio Gago-Masague Collaborates on $1.8M Grant to Counter Negative Medication Beliefs
+        </a>
+        <br/>
+        <span class="news-date">
+         October 15, 2019
+        </span>
+       </li>
+       <li>
+        <a href="//www.ics.uci.edu/community/news/view_news?id=1634">
+         Informatics Ph.D. Candidate Amanda Cullen Selected as ARCS Scholar
+        </a>
+        <br/>
+        <span class="news-date">
+         October 14, 2019
+        </span>
+       </li>
+       <li>
+        <a href="//www.ics.uci.edu/community/news/view_news?id=1631">
+         Sangeetha Abdu Jyothi Attends the Heidelberg Laureate Forum
+        </a>
+        <br/>
+        <span class="news-date">
+         October 8, 2019
+        </span>
+       </li>
+       <li>
+        <a href="//www.ics.uci.edu/community/news/view_news?id=1628">
+         Ramesh Jain Wins Inaugural IEEE TCMC Impact Award
+        </a>
+        <br/>
+        <span class="news-date">
+         October 3, 2019
+        </span>
+       </li>
+      </ul>
+      <!-- -->
+      <p>
+       <a aria-pressed="true" class="btn btn-outline-primary btn-sm" href="//www.ics.uci.edu/community/news/" role="button">
+        View More News
+       </a>
+      </p>
+      <!--
+<li><a href="//www.ics.uci.edu/community/news/view_news?id=1518">Title</a><br /><span class="news-date">Date</span></li>
+-->
+      <!-- START/weather widget <a class="weatherwidget-io" data-basecolor="#0064a4" data-cloudfill="#0064a4" data-days="3" data-highcolor="#f78d2d" data-icons="Climacons Animated" data-label_1="IRVINE" data-label_2="WEATHER" data-lowcolor="#6882b8" data-mode="Current" data-raincolor="#6882b8" data-suncolor="#ffd200" data-theme="original" href="https://forecast7.com/en/33d68n117d83/irvine/?unit=us" title="Irvine Weather Widget">IRVINE WEATHER</a>
+<script type="text/javascript">// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+// ]]></script>
+ END/weather widget -->
+     </div>
+     <!--END:frontpage 1st column-->
+     <div class="homepage-col col-md-4">
+      <!--START:frontpage 2nd column-->
+      <div id="upcoming-events">
+       <h3>
+        Upcoming Events
+       </h3>
+       <link href="bin/styles/stylesheet_upcomingevents.css" rel="stylesheet" type="text/css"/>
+       <script src="https://today.uci.edu/widget/view?schools=uci&amp;departments=information_computer_sciences&amp;days=60&amp;num=6&amp;hidedesc=1&amp;hideimage=1&amp;show_times=0&amp;target_blank=1&amp;html_descriptions=1&amp;hide_past=1&amp;style=none" type="text/javascript">
+       </script>
+       <div id="home-event-sec">
+        <div id="lclst_widget_footer">
+         <a href="https://www.localist.com?utm_source=widget&amp;utm_campaign=widget_footer&amp;utm_medium=branded%20link" rel="nofollow" style="margin-left: auto; margin-right: auto; display: block; width: 81px; margin-top: 10px;" title="Widget powered by Localist Event Calendar Software">
+          <img alt="Localist Online Calendar Software" height="23" src="//d3e1o4bcbhmj8g.cloudfront.net/assets/platforms/default/about/widget_footer.png" style="vertical-align: middle;" width="81"/>
+         </a>
+        </div>
+        <p>
+         <a aria-pressed="true" class="btn btn-outline-primary btn-sm" href="https://today.uci.edu/department/information_computer_sciences" rel="nofollow noopener" role="button" target="_blank">
+          View Calendar
+         </a>
+        </p>
+        <div style="padding-top: 25px;" width="100%">
+        </div>
+       </div>
+      </div>
+     </div>
+     <!--END:frontpage 2nd column-->
+     <div class="homepage-col col-md-4" id="student-spotlight">
+      <!--START:frontpage 3rd column-->
+      <h3>
+       Faculty Recruitment
+      </h3>
+      <style>
+       <!--
+.recruit-ad img{ border-radius:5px; }
+-->
+      </style>
+      <div class="recruit-ad">
+       <p>
+        <a href="/employment/">
+         <img alt="" class="img-fluid" src="bin/img/frontpage/hal.jpg" style="border: 0;"/>
+        </a>
+       </p>
+       <p>
+        The Donald Bren School of Information and Computer Sciences is seeking exceptional candidates for multiple tenured/tenure-track Professor positions. A detailed description of each position, and application instructions, can be found
+        <a href="//www.ics.uci.edu/employment/employ_faculty.php">
+         here
+        </a>
+        .
+       </p>
+       <a aria-pressed="true" class="btn btn-outline-primary btn-sm" href="//www.ics.uci.edu/employment/employ_faculty.php" role="button">
+        Learn More
+       </a>
+      </div>
+      <div class="h-gap-30">
+      </div>
+      <!-- START/weather widget -->
+      <a class="weatherwidget-io" data-basecolor="#0064a4" data-cloudfill="#0064a4" data-days="3" data-highcolor="#f78d2d" data-icons="Climacons Animated" data-label_1="IRVINE" data-label_2="WEATHER" data-lowcolor="#6882b8" data-mode="Current" data-raincolor="#6882b8" data-suncolor="#ffd200" data-theme="original" href="https://forecast7.com/en/33d68n117d83/irvine/?unit=us" title="Irvine Weather Widget">
+       IRVINE WEATHER
+      </a>
+      <script type="text/javascript">
+       // <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+// ]]>
+      </script>
+      <!-- END/weather widget -->
+      <!--END:frontpage 3rd column-->
+     </div>
+    </div>
+   </div>
+  </section>
+  <section id="carousel-bttm-slider">
+   <div id="carousel-slider2">
+    <!--START/carousel slider-->
+    <!--START/carousel slider-->
+    <div class="carousel slide" data-ride="carousel" id="carouselExampleIndicators2">
+     <ol class="carousel-indicators">
+      <li class="active" data-slide-to="0" data-target="#carouselExampleIndicators2">
+      </li>
+      <li data-slide-to="1" data-target="#carouselExampleIndicators2">
+      </li>
+      <li data-slide-to="2" data-target="#carouselExampleIndicators2">
+      </li>
+     </ol>
+     <div class="carousel-inner">
+      <div class="carousel-item active">
+       <div class="row">
+        <div class="col-md-3">
+        </div>
+        <div class="col-md-3 align-self-center" style="margin:20px;">
+         <a href="//www.ics.uci.edu/community/news/view_news?id=1641">
+          <h5>
+           Student Spotlight:
+          </h5>
+          <p>
+           Ryan Yang and the Instant Popularity of Boba Watch
+          </p>
+         </a>
+         <p>
+          <a aria-pressed="true" class="btn btn-outline-primary btn-sm" href="//www.ics.uci.edu/community/news/view_news?id=1641" role="button">
+           Read More
+          </a>
+         </p>
+        </div>
+        <div class="col-md-3 align-self-center">
+         <a href="//www.ics.uci.edu/community/news/view_news?id=1641">
+          <img alt="Ryan Yang and the Instant Popularity of Boba Watch" class="img-fluid" src="//www.ics.uci.edu/bin/img/spotlight/RyanYang2.jpg" style="border: 0;"/>
+         </a>
+        </div>
+        <div class="col-md-3">
+        </div>
+       </div>
+      </div>
+      <div class="carousel-item">
+       <div class="row">
+        <div class="col-md-3">
+        </div>
+        <div class="col-md-3 align-self-center" style="margin:20px;">
+         <a href="//www.ics.uci.edu/community/news/view_news?id=1630">
+          <h5>
+           Senior Spotlight:
+          </h5>
+          <p>
+           Taneisha Arora Pursues Her Passions, From Working in Industry to Running a Bakery
+          </p>
+         </a>
+         <p>
+          <a aria-pressed="true" class="btn btn-outline-primary btn-sm" href="//www.ics.uci.edu/community/news/view_news?id=1630" role="button">
+           Read More
+          </a>
+         </p>
+        </div>
+        <div class="col-md-3 align-self-center">
+         <a href="//www.ics.uci.edu/community/news/view_news?id=1630">
+          <img alt="Taneisha Arora Pursues Her Passions, From Working in Industry to Running a Bakery" class="img-fluid" src="//www.ics.uci.edu/bin/img/spotlight/TaneishaArora01.jpg" style="border: 0;"/>
+         </a>
+        </div>
+        <div class="col-md-3">
+        </div>
+       </div>
+      </div>
+      <div class="carousel-item">
+       <div class="row">
+        <div class="col-md-3">
+        </div>
+        <div class="col-md-3 align-self-center" style="margin:20px;">
+         <a href="//www.ics.uci.edu/community/news/view_news?id=1611">
+          <h5>
+           Graduate Student Spotlight:
+          </h5>
+          <p>
+           Ernest Garrison Finds Joy in Helping Others
+          </p>
+         </a>
+         <p>
+          <a aria-pressed="true" class="btn btn-outline-primary btn-sm" href="//www.ics.uci.edu/community/news/view_news?id=1611" role="button">
+           Read More
+          </a>
+         </p>
+        </div>
+        <div class="col-md-3 align-self-center">
+         <a href="//www.ics.uci.edu/community/news/view_news?id=1611">
+          <img alt="Ernest Garrison Finds Joy in Helping Others" class="img-fluid" src="//www.ics.uci.edu/bin/img/spotlight/ErnestGarrison_profile-v2.jpg" style="border: 0;"/>
+         </a>
+        </div>
+        <div class="col-md-3">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!--End/carousel slider-->
+    <!--End/carousel slider-->
+   </div>
+  </section>
+  <section id="bottom-section">
+   <div class="container">
+    <!--<div id="links_bottom"><system-region name="LINKS-BOTTOM"/></div>-->
+    <div id="nav-footer">
+     <div class="container">
+      <div class="row">
+       <div class="col-md-6 soc-cons foot-col1">
+        <div class="row">
+         <p>
+          Donald Bren School of Information and Computer Sciences
+          <br/>
+          University of California, Irvine
+          <br/>
+          6210 Donald Bren Hall
+          <br/>
+          Irvine, CA 92697-3425
+         </p>
+        </div>
+        <div class="row">
+         <ul>
+          <li>
+           <a alt="Facebook" href="http://facebook.com/UCIBrenICS" target="_blank" title="Facebook">
+            <i alt="facebook" class="fab fa-facebook-square">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a href="http://instagram.com/ucibrenics/" target="_blank" title="Instagram">
+            <i alt="instagram" class="fab fa-instagram">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a href="http://twitter.com/UCIbrenICS" target="_blank" title="Twitter">
+            <i alt="twitter" class="fab fa-twitter-square">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a href="https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences" target="_blank" title="LinkedIn">
+            <i alt="linkedin" class="fab fa-linkedin-square">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a href="http://youtube.com/UCIBrenICS" target="_blank" title="Youtube">
+            <i alt="square" class="fab fa-youtube-square">
+            </i>
+           </a>
+          </li>
+          <li>
+           <a href="https://www.flickr.com/photos/brenschool" target="_blank" title="Flicker">
+            <i alt="flickr" class="fab fa-flickr">
+            </i>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <div class="col-md-2 quk-links foot-col2">
+        <ul>
+         <li>
+          <a href="https://uci.edu/">
+           UCI Homepage
+          </a>
+         </li>
+         <li>
+          <a href="https://directory.uci.edu/">
+           UCI Directory
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ics.uci.edu/about/search/index.php">
+           Faculty &amp; Staff
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ics.uci.edu/employment/">
+           Employment
+          </a>
+         </li>
+         <li>
+          <a href="https://intranet.ics.uci.edu/">
+           ICS Intranet
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ics.uci.edu/about/kfflab/index.php">
+           Kay Family Foundation Lab
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ics.uci.edu/about/facilities/index.php">
+           Facilities
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="col-md-2 quk-links foot-col3">
+        <ul>
+         <li>
+          <a href="https://www.ics.uci.edu/community/news/">
+           News
+          </a>
+         </li>
+         <li>
+          <a href="https://today.uci.edu/department/information_computer_sciences">
+           Events
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ics.uci.edu/about/visit/index.php">
+           Map &amp; Directions
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ics.uci.edu/accessibility/">
+           Accessibility Statement
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ics.uci.edu/about/about_safety.php">
+           Safety Procedures
+          </a>
+         </li>
+         <li>
+          <a href="https://uci.edu/privacy/index.php">
+           Privacy Policy
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="col-md-2 quk-links foot-col4">
+        <ul>
+         <li>
+          <a href="https://apply.grad.uci.edu/apply/">
+           Apply
+          </a>
+         </li>
+         <li>
+          <a href="https://www.ics.uci.edu/about/about_contact.php">
+           Contact
+          </a>
+         </li>
+         <li>
+          <a href="https://secure.connect.uci.edu/s/1735/interior-1col.aspx?sid=1735&amp;gid=3&amp;pgid=801&amp;dids=79">
+           Gift
+           <i class="fas fa-gift">
+           </i>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="row copyrt-txt hr-top">
+       <div class="container">
+        <p class="text-center">
+         <a href="https://uci.edu/copyright/">
+          ©  UCI Donald Bren School of Information &amp; Computer Sciences
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!--<div id="footer"><system-region name="FOOTER"/></div>-->
+   </div>
+  </section>
+  <!-- Back To Top Btn -->
+  <div id="btt-btn">
+   <!-- Back To Top Btn -->
+   <a href="#" id="back2Top" title="Back to top">
+    ➤
+   </a>
+  </div>
+  <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+   var pageTracker = _gat._getTracker("UA-605898-1");
+    pageTracker._trackPageview();
+  </script>
+  <script crossorigin="anonymous" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" type="text/javascript">
+  </script>
+  <script crossorigin="anonymous" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" type="text/javascript">
+  </script>
+  <script src="bin/js/findme_replace.js" type="text/javascript">
+  </script>
+  <script src="bin/js/btt.js" type="text/javascript">
+  </script>
+  <script src="bin/js/menu_hover.js" type="text/javascript">
+  </script>
+  <!-- Accessibilty - START -->
+  <script type="text/javascript">
+   var _userway_config = {
+        /* uncomment the following line to override default position*/
+        /* position: '2', */
+        /* uncomment the following line to override default size (values: small, large)*/
+        /* size: 'small', */
+        /* uncomment the following line to override default language (e.g., fr, de, es, he, nl, etc.)*/
+        /* language: 'en-US', */
+        /* uncomment the following line to override color set via widget (e.g., #053f67)*/
+        /* color: '#0064a4', */
+        /* uncomment the following line to override type set via widget(1=person, 2=chair, 3=eye)*/
+        /* type: '1', */
+        /* uncomment the following line to override support on mobile devices*/
+        /* mobile: true, */
+        account: 'GTYOD4aROB'
+    };
+  </script>
+  <script src="https://cdn.userway.org/widget.js" type="text/javascript">
+  </script>
+  <!-- Accessibilty - END -->
+ </body>
+</html>

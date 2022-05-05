@@ -1,0 +1,2613 @@
+
+http://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+http://www.ics.uci.edu/~lab/lab_assistants/job_description.php
+404: None
+http://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/C24_EDB17_Felix.ppsx
+403: None
+http://www.ics.uci.edu/~dvk/pub/C25_SIGMOD18_dvk.ppsx
+403: None
+http://www.ics.uci.edu/~dvk/pub/C26_CIDR19_DBChEx.ppsx
+403: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+http://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+http://www.ics.uci.edu/faculty/profiles/ 
+404: None
+http://www.ics.uci.edu/faculty/ 
+404: None
+https://archive.ics.uci.edu/datasets/Abalone
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+404: None
+https://archive.ics.uci.edu/datasets/Heart+Disease
+404: None
+https://archive.ics.uci.edu/datasets/Car+Evaluation
+404: None
+https://archive.ics.uci.edu/datasets/Wine
+404: None
+https://archive.ics.uci.edu/datasets/Adult
+404: None
+https://archive.ics.uci.edu/datasets/Iris
+404: None
+http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/Cloud
+404: None
+https://archive.ics.uci.edu/datasets/Protein+Data
+404: None
+https://archive.ics.uci.edu/datasets/Economic+Sanctions
+404: None
+https://archive.ics.uci.edu/datasets/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)
+404: None
+https://archive.ics.uci.edu/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
+404: None
+https://archive.ics.uci.edu/datasets/Connectionist+Bench+(Nettalk+Corpus)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Vehicle+Silhouettes)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Shuttle)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Image+Segmentation)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Landsat+Satellite)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Heart)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(German+Credit+Data)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Australian+Credit+Approval)
+404: None
+https://archive.ics.uci.edu/datasets/UNIX+User+Data
+404: None
+https://archive.ics.uci.edu/datasets/Syskill+and+Webert+Web+Page+Ratings
+404: None
+http://www.ics.uci.edu/cgi-bin/webglimpse-fullsearch/i1/dy/ua/mlearn/public_html?file=/i1/dy/ua/pazzani/public_html/RTF/AAAI.html
+404: None
+https://archive.ics.uci.edu/datasets/Reuters-21578+Text+Categorization+Collection
+404: None
+https://archive.ics.uci.edu/datasets/Movie
+404: None
+https://archive.ics.uci.edu/datasets/KDD+Cup+1999+Data
+404: None
+http://kdd.ics.uci.edu/databases/kddcup99/typo-correction.txt
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/KDD+Cup+1998+Data
+404: None
+https://archive.ics.uci.edu/datasets/IPUMS+Census+Database
+404: None
+http://www.ics.uci.edu/~sbay
+404: None
+https://archive.ics.uci.edu/datasets/Insurance+Company+Benchmark+(COIL+2000)
+404: None
+http://kdd.ics.uci.edu/databases/tic/dictionary.txt
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/CMU+Face+Images
+404: None
+https://archive.ics.uci.edu/datasets/Entree+Chicago+Recommendation+Data
+404: None
+https://archive.ics.uci.edu/datasets/El+Nino
+404: None
+https://archive.ics.uci.edu/datasets/EEG+Database
+404: None
+https://archive.ics.uci.edu/datasets/E.+Coli+Genes
+404: None
+https://archive.ics.uci.edu/datasets/Corel+Image+Features
+404: None
+http://www-db.ics.uci.edu/pages/index.shtml
+404: None
+http://kdd.ics.uci.edu/databases/coil/instructions.txt
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/Census-Income+(KDD)
+404: None
+https://archive.ics.uci.edu/datasets/US+Census+Data+(1990)
+404: None
+https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990.data.txt
+607: Content too big. 361344227
+https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990raw.data.txt
+607: Content too big. 862858036
+https://archive.ics.uci.edu/datasets/Australian+Sign+Language+signs+(High+Quality)
+404: None
+https://archive.ics.uci.edu/databases/auslan/auslan.data.html
+404: None
+https://archive.ics.uci.edu/datasets/Australian+Sign+Language+signs
+404: None
+https://archive.ics.uci.edu/datasets/Zoo
+404: None
+https://archive.ics.uci.edu/datasets/Yeast
+404: None
+https://archive.ics.uci.edu/datasets/Waveform+Database+Generator+(Version+2)
+404: None
+https://archive.ics.uci.edu/datasets/Waveform+Database+Generator+(Version+1)
+404: None
+https://archive.ics.uci.edu/datasets/Congressional+Voting+Records
+404: None
+https://archive.ics.uci.edu/datasets/Trains
+404: None
+https://archive.ics.uci.edu/datasets/Thyroid+Disease
+404: None
+https://archive.ics.uci.edu/datasets/Tic-Tac-Toe+Endgame
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+Project
+404: None
+https://archive.ics.uci.edu/datasets/SPECTF+Heart
+404: None
+https://archive.ics.uci.edu/datasets/SPECT+Heart
+404: None
+https://archive.ics.uci.edu/datasets/Spambase
+404: None
+https://archive.ics.uci.edu/datasets/Challenger+USA+Space+Shuttle+O-Ring
+404: None
+https://archive.ics.uci.edu/datasets/Soybean+(Small)
+404: None
+https://archive.ics.uci.edu/datasets/Soybean+(Large)
+404: None
+https://archive.ics.uci.edu/datasets/Solar+Flare
+404: None
+https://archive.ics.uci.edu/datasets/Shuttle+Landing+Control
+404: None
+https://archive.ics.uci.edu/datasets/Servo
+404: None
+https://archive.ics.uci.edu/datasets/Primary+Tumor
+404: None
+https://archive.ics.uci.edu/datasets/Post-Operative+Patient
+404: None
+https://archive.ics.uci.edu/datasets/Pen-Based+Recognition+of+Handwritten+Digits
+404: None
+https://archive.ics.uci.edu/datasets/Optical+Recognition+of+Handwritten+Digits
+404: None
+https://archive.ics.uci.edu/datasets/Page+Blocks+Classification
+404: None
+https://archive.ics.uci.edu/datasets/Nursery
+404: None
+https://archive.ics.uci.edu/datasets/Musk+(Version+2)
+404: None
+https://archive.ics.uci.edu/datasets/Musk+(Version+1)
+404: None
+https://archive.ics.uci.edu/datasets/Mushroom
+404: None
+https://archive.ics.uci.edu/datasets/Multiple+Features
+404: None
+https://archive.ics.uci.edu/datasets/MONK's+Problems
+404: None
+https://archive.ics.uci.edu/datasets/Molecular+Biology+(Splice-junction+Gene+Sequences)
+404: None
+https://archive.ics.uci.edu/datasets/Molecular+Biology+(Protein+Secondary+Structure)
+404: None
+https://archive.ics.uci.edu/datasets/Molecular+Biology+(Promoter+Gene+Sequences)
+404: None
+https://archive.ics.uci.edu/datasets/Mobile+Robots
+404: None
+https://archive.ics.uci.edu/datasets/Lymphography
+404: None
+https://archive.ics.uci.edu/datasets/Lung+Cancer
+404: None
+https://archive.ics.uci.edu/datasets/Liver+Disorders
+404: None
+https://archive.ics.uci.edu/datasets/Letter+Recognition
+404: None
+https://archive.ics.uci.edu/datasets/Lenses
+404: None
+https://archive.ics.uci.edu/datasets/LED+Display+Domain
+404: None
+https://archive.ics.uci.edu/datasets/Labor+Relations
+404: None
+https://archive.ics.uci.edu/datasets/ISOLET
+404: None
+https://archive.ics.uci.edu/datasets/Ionosphere
+404: None
+https://archive.ics.uci.edu/datasets/Internet+Advertisements
+404: None
+https://archive.ics.uci.edu/datasets/Image+Segmentation
+404: None
+https://archive.ics.uci.edu/datasets/Horse+Colic
+404: None
+https://archive.ics.uci.edu/datasets/Hepatitis
+404: None
+https://archive.ics.uci.edu/datasets/Hayes-Roth
+404: None
+https://archive.ics.uci.edu/datasets/Haberman's+Survival
+404: None
+https://archive.ics.uci.edu/datasets/Glass+Identification
+404: None
+https://archive.ics.uci.edu/datasets/Flags
+404: None
+https://archive.ics.uci.edu/datasets/Ecoli
+404: None
+https://archive.ics.uci.edu/datasets/Echocardiogram
+404: None
+https://archive.ics.uci.edu/datasets/Diabetes
+404: None
+https://archive.ics.uci.edu/datasets/Dermatology
+404: None
+https://archive.ics.uci.edu/datasets/Cylinder+Bands
+404: None
+https://archive.ics.uci.edu/datasets/Covertype
+404: None
+https://archive.ics.uci.edu/datasets/Contraceptive+Method+Choice
+404: None
+https://archive.ics.uci.edu/datasets/Computer+Hardware
+404: None
+https://archive.ics.uci.edu/datasets/Japanese+Credit+Screening
+404: None
+https://archive.ics.uci.edu/datasets/Credit+Approval
+404: None
+https://archive.ics.uci.edu/datasets/Connect-4
+404: None
+https://archive.ics.uci.edu/datasets/Bach+Chorales
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(Domain+Theories)
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(King-Rook+vs.+King)
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(King-Rook+vs.+King-Pawn)
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(King-Rook+vs.+King-Knight)
+404: None
+https://archive.ics.uci.edu/datasets/Census+Income
+404: None
+https://archive.ics.uci.edu/datasets/Pittsburgh+Bridges
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Prognostic)
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Original)
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer
+404: None
+https://archive.ics.uci.edu/datasets/Balloons
+404: None
+https://archive.ics.uci.edu/datasets/Balance+Scale
+404: None
+https://archive.ics.uci.edu/datasets/Automobile
+404: None
+https://archive.ics.uci.edu/datasets/Auto+MPG
+404: None
+https://archive.ics.uci.edu/datasets/Audiology+(Standardized)
+404: None
+https://archive.ics.uci.edu/datasets/Audiology+(Original)
+404: None
+https://archive.ics.uci.edu/datasets/Arrhythmia
+404: None
+https://archive.ics.uci.edu/datasets/Anonymous+Microsoft+Web+Data
+404: None
+https://archive.ics.uci.edu/datasets/Annealing
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/about/facilities/jcleaver@ics.uci.edu
+404: None
+http://www.ics.uci.edu/~dzhang3
+403: None
+http://www.ics.uci.edu/~diy4
+403: None
+http://www.ics.uci.edu/~huw5
+403: None
+http://www.ics.uci.edu/~ehoshi
+403: None
+http://www.ics.uci.edu/~ngallo1
+403: None
+http://www.ics.uci.edu/~eugenig
+403: None
+http://www.ics.uci.edu/~hinaa
+403: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/computing/account/new
+404: None
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php?id=21
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/about/facilities/jcleaver@ics.uci.edu
+404: None
+http://www.ics.uci.edu/~dzhang3
+403: None
+http://www.ics.uci.edu/~diy4
+403: None
+http://www.ics.uci.edu/~huw5
+403: None
+http://www.ics.uci.edu/~ehoshi
+403: None
+http://www.ics.uci.edu/~ngallo1
+403: None
+http://www.ics.uci.edu/~eugenig
+403: None
+http://www.ics.uci.edu/~hinaa
+403: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/computing/account/new
+404: None
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php?id=21
+404: None
+http://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+http://www.ics.uci.edu/~lab/lab_assistants/job_description.php
+404: None
+http://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+http://www.ics.uci.edu/~lab/lab_assistants/job_description.php
+404: None
+https://archive.ics.uci.edu/datasets/Abalone
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+404: None
+https://archive.ics.uci.edu/datasets/Heart+Disease
+404: None
+https://archive.ics.uci.edu/datasets/Car+Evaluation
+404: None
+https://archive.ics.uci.edu/datasets/Wine
+404: None
+https://archive.ics.uci.edu/datasets/Adult
+404: None
+https://archive.ics.uci.edu/datasets/Iris
+404: None
+https://archive.ics.uci.edu/datasets/Trains
+404: None
+http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/Cloud
+404: None
+https://archive.ics.uci.edu/datasets/Protein+Data
+404: None
+https://archive.ics.uci.edu/datasets/Economic+Sanctions
+404: None
+https://archive.ics.uci.edu/datasets/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)
+404: None
+https://archive.ics.uci.edu/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
+404: None
+https://archive.ics.uci.edu/datasets/Connectionist+Bench+(Nettalk+Corpus)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Vehicle+Silhouettes)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Shuttle)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Image+Segmentation)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Landsat+Satellite)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Heart)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(German+Credit+Data)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Australian+Credit+Approval)
+404: None
+https://archive.ics.uci.edu/datasets/UNIX+User+Data
+404: None
+https://archive.ics.uci.edu/datasets/Syskill+and+Webert+Web+Page+Ratings
+404: None
+http://www.ics.uci.edu/cgi-bin/webglimpse-fullsearch/i1/dy/ua/mlearn/public_html?file=/i1/dy/ua/pazzani/public_html/RTF/AAAI.html
+404: None
+https://archive.ics.uci.edu/datasets/Reuters-21578+Text+Categorization+Collection
+404: None
+https://archive.ics.uci.edu/datasets/Movie
+404: None
+https://archive.ics.uci.edu/datasets/KDD+Cup+1999+Data
+404: None
+http://kdd.ics.uci.edu/databases/kddcup99/typo-correction.txt
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/KDD+Cup+1998+Data
+404: None
+https://archive.ics.uci.edu/datasets/IPUMS+Census+Database
+404: None
+http://www.ics.uci.edu/~sbay
+404: None
+https://archive.ics.uci.edu/datasets/Insurance+Company+Benchmark+(COIL+2000)
+404: None
+http://kdd.ics.uci.edu/databases/tic/dictionary.txt
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/CMU+Face+Images
+404: None
+https://archive.ics.uci.edu/datasets/Entree+Chicago+Recommendation+Data
+404: None
+https://archive.ics.uci.edu/datasets/El+Nino
+404: None
+https://archive.ics.uci.edu/datasets/EEG+Database
+404: None
+https://archive.ics.uci.edu/datasets/E.+Coli+Genes
+404: None
+https://archive.ics.uci.edu/datasets/Corel+Image+Features
+404: None
+http://www-db.ics.uci.edu/pages/index.shtml
+404: None
+http://kdd.ics.uci.edu/databases/coil/instructions.txt
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/Census-Income+(KDD)
+404: None
+https://archive.ics.uci.edu/datasets/US+Census+Data+(1990)
+404: None
+https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990.data.txt
+607: Content too big. 361344227
+https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990raw.data.txt
+607: Content too big. 862858036
+https://archive.ics.uci.edu/datasets/Australian+Sign+Language+signs+(High+Quality)
+404: None
+https://archive.ics.uci.edu/databases/auslan/auslan.data.html
+404: None
+https://archive.ics.uci.edu/datasets/Australian+Sign+Language+signs
+404: None
+https://archive.ics.uci.edu/datasets/Zoo
+404: None
+https://archive.ics.uci.edu/datasets/Yeast
+404: None
+https://archive.ics.uci.edu/datasets/Waveform+Database+Generator+(Version+2)
+404: None
+https://archive.ics.uci.edu/datasets/Waveform+Database+Generator+(Version+1)
+404: None
+https://archive.ics.uci.edu/datasets/Congressional+Voting+Records
+404: None
+https://archive.ics.uci.edu/datasets/Thyroid+Disease
+404: None
+https://archive.ics.uci.edu/datasets/Tic-Tac-Toe+Endgame
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+Project
+404: None
+https://archive.ics.uci.edu/datasets/SPECTF+Heart
+404: None
+https://archive.ics.uci.edu/datasets/SPECT+Heart
+404: None
+https://archive.ics.uci.edu/datasets/Spambase
+404: None
+https://archive.ics.uci.edu/datasets/Challenger+USA+Space+Shuttle+O-Ring
+404: None
+https://archive.ics.uci.edu/datasets/Soybean+(Small)
+404: None
+https://archive.ics.uci.edu/datasets/Soybean+(Large)
+404: None
+https://archive.ics.uci.edu/datasets/Solar+Flare
+404: None
+https://archive.ics.uci.edu/datasets/Shuttle+Landing+Control
+404: None
+https://archive.ics.uci.edu/datasets/Servo
+404: None
+https://archive.ics.uci.edu/datasets/Primary+Tumor
+404: None
+https://archive.ics.uci.edu/datasets/Post-Operative+Patient
+404: None
+https://archive.ics.uci.edu/datasets/Pen-Based+Recognition+of+Handwritten+Digits
+404: None
+https://archive.ics.uci.edu/datasets/Optical+Recognition+of+Handwritten+Digits
+404: None
+https://archive.ics.uci.edu/datasets/Page+Blocks+Classification
+404: None
+https://archive.ics.uci.edu/datasets/Nursery
+404: None
+https://archive.ics.uci.edu/datasets/Musk+(Version+2)
+404: None
+https://archive.ics.uci.edu/datasets/Musk+(Version+1)
+404: None
+https://archive.ics.uci.edu/datasets/Mushroom
+404: None
+https://archive.ics.uci.edu/datasets/Multiple+Features
+404: None
+https://archive.ics.uci.edu/datasets/MONK's+Problems
+404: None
+https://archive.ics.uci.edu/datasets/Molecular+Biology+(Splice-junction+Gene+Sequences)
+404: None
+https://archive.ics.uci.edu/datasets/Molecular+Biology+(Protein+Secondary+Structure)
+404: None
+https://archive.ics.uci.edu/datasets/Molecular+Biology+(Promoter+Gene+Sequences)
+404: None
+https://archive.ics.uci.edu/datasets/Mobile+Robots
+404: None
+https://archive.ics.uci.edu/datasets/Lymphography
+404: None
+https://archive.ics.uci.edu/datasets/Lung+Cancer
+404: None
+https://archive.ics.uci.edu/datasets/Liver+Disorders
+404: None
+https://archive.ics.uci.edu/datasets/Letter+Recognition
+404: None
+https://archive.ics.uci.edu/datasets/Lenses
+404: None
+https://archive.ics.uci.edu/datasets/LED+Display+Domain
+404: None
+https://archive.ics.uci.edu/datasets/Labor+Relations
+404: None
+https://archive.ics.uci.edu/datasets/ISOLET
+404: None
+https://archive.ics.uci.edu/datasets/Ionosphere
+404: None
+https://archive.ics.uci.edu/datasets/Internet+Advertisements
+404: None
+https://archive.ics.uci.edu/datasets/Image+Segmentation
+404: None
+https://archive.ics.uci.edu/datasets/Horse+Colic
+404: None
+https://archive.ics.uci.edu/datasets/Hepatitis
+404: None
+https://archive.ics.uci.edu/datasets/Hayes-Roth
+404: None
+https://archive.ics.uci.edu/datasets/Haberman's+Survival
+404: None
+https://archive.ics.uci.edu/datasets/Glass+Identification
+404: None
+https://archive.ics.uci.edu/datasets/Flags
+404: None
+https://archive.ics.uci.edu/datasets/Ecoli
+404: None
+https://archive.ics.uci.edu/datasets/Echocardiogram
+404: None
+https://archive.ics.uci.edu/datasets/Diabetes
+404: None
+https://archive.ics.uci.edu/datasets/Dermatology
+404: None
+https://archive.ics.uci.edu/datasets/Cylinder+Bands
+404: None
+https://archive.ics.uci.edu/datasets/Covertype
+404: None
+https://archive.ics.uci.edu/datasets/Contraceptive+Method+Choice
+404: None
+https://archive.ics.uci.edu/datasets/Computer+Hardware
+404: None
+https://archive.ics.uci.edu/datasets/Japanese+Credit+Screening
+404: None
+https://archive.ics.uci.edu/datasets/Credit+Approval
+404: None
+https://archive.ics.uci.edu/datasets/Connect-4
+404: None
+https://archive.ics.uci.edu/datasets/Bach+Chorales
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(Domain+Theories)
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(King-Rook+vs.+King)
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(King-Rook+vs.+King-Pawn)
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(King-Rook+vs.+King-Knight)
+404: None
+https://archive.ics.uci.edu/datasets/Census+Income
+404: None
+https://archive.ics.uci.edu/datasets/Pittsburgh+Bridges
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Prognostic)
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Original)
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer
+404: None
+https://archive.ics.uci.edu/datasets/Balloons
+404: None
+https://archive.ics.uci.edu/datasets/Balance+Scale
+404: None
+https://archive.ics.uci.edu/datasets/Automobile
+404: None
+https://archive.ics.uci.edu/datasets/Auto+MPG
+404: None
+https://archive.ics.uci.edu/datasets/Audiology+(Standardized)
+404: None
+https://archive.ics.uci.edu/datasets/Audiology+(Original)
+404: None
+https://archive.ics.uci.edu/datasets/Arrhythmia
+404: None
+https://archive.ics.uci.edu/datasets/Anonymous+Microsoft+Web+Data
+404: None
+https://archive.ics.uci.edu/datasets/Annealing
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/about/facilities/jcleaver@ics.uci.edu
+404: None
+http://www.ics.uci.edu/~dzhang3
+403: None
+http://www.ics.uci.edu/~diy4
+403: None
+http://www.ics.uci.edu/~huw5
+403: None
+http://www.ics.uci.edu/~ehoshi
+403: None
+http://www.ics.uci.edu/~ngallo1
+403: None
+http://www.ics.uci.edu/~eugenig
+403: None
+http://www.ics.uci.edu/~hinaa
+403: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/computing/account/new
+404: None
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php?id=21
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/about/facilities/jcleaver@ics.uci.edu
+404: None
+http://www.ics.uci.edu/~dzhang3
+403: None
+http://www.ics.uci.edu/~diy4
+403: None
+http://www.ics.uci.edu/~huw5
+403: None
+http://www.ics.uci.edu/~ehoshi
+403: None
+http://www.ics.uci.edu/~ngallo1
+403: None
+http://www.ics.uci.edu/~eugenig
+403: None
+http://www.ics.uci.edu/~hinaa
+403: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/computing/account/new
+404: None
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php?id=21
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+http://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+http://www.ics.uci.edu/~lab/lab_assistants/job_description.php
+404: None
+http://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/C24_EDB17_Felix.ppsx
+403: None
+http://www.ics.uci.edu/~dvk/pub/C25_SIGMOD18_dvk.ppsx
+403: None
+http://www.ics.uci.edu/~dvk/pub/C26_CIDR19_DBChEx.ppsx
+403: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+http://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+http://www.ics.uci.edu/faculty/profiles/ 
+404: None
+http://www.ics.uci.edu/faculty/ 
+404: None
+https://archive.ics.uci.edu/datasets/Abalone
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+404: None
+https://archive.ics.uci.edu/datasets/Heart+Disease
+404: None
+https://archive.ics.uci.edu/datasets/Car+Evaluation
+404: None
+https://archive.ics.uci.edu/datasets/Wine
+404: None
+https://archive.ics.uci.edu/datasets/Adult
+404: None
+https://archive.ics.uci.edu/datasets/Iris
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/about/facilities/jcleaver@ics.uci.edu
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+http://www.ics.uci.edu/~dzhang3
+403: None
+http://www.ics.uci.edu/~diy4
+403: None
+http://www.ics.uci.edu/~huw5
+403: None
+http://www.ics.uci.edu/~ehoshi
+403: None
+http://www.ics.uci.edu/~ngallo1
+403: None
+http://www.ics.uci.edu/~eugenig
+403: None
+http://www.ics.uci.edu/~hinaa
+403: None
+https://www.ics.uci.edu/computing/account/new
+404: None
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php?id=21
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://archive.ics.uci.edu/datasets/Abalone
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+404: None
+https://archive.ics.uci.edu/datasets/Heart+Disease
+404: None
+https://archive.ics.uci.edu/datasets/Car+Evaluation
+404: None
+https://archive.ics.uci.edu/datasets/Wine
+404: None
+https://archive.ics.uci.edu/datasets/Adult
+404: None
+https://archive.ics.uci.edu/datasets/Iris
+404: None
+https://archive.ics.uci.edu/datasets/Molecular+Biology+(Promoter+Gene+Sequences)
+404: None
+http://kdd.ics.uci.edu/databases/reuters21578/reuters21578.html
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/Cloud
+404: None
+https://archive.ics.uci.edu/datasets/Protein+Data
+404: None
+https://archive.ics.uci.edu/datasets/Economic+Sanctions
+404: None
+https://archive.ics.uci.edu/datasets/Connectionist+Bench+(Vowel+Recognition+-+Deterding+Data)
+404: None
+https://archive.ics.uci.edu/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks)
+404: None
+https://archive.ics.uci.edu/datasets/Connectionist+Bench+(Nettalk+Corpus)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Vehicle+Silhouettes)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Shuttle)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Image+Segmentation)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Landsat+Satellite)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Heart)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(German+Credit+Data)
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+(Australian+Credit+Approval)
+404: None
+https://archive.ics.uci.edu/datasets/UNIX+User+Data
+404: None
+https://archive.ics.uci.edu/datasets/Syskill+and+Webert+Web+Page+Ratings
+404: None
+https://archive.ics.uci.edu/datasets/Reuters-21578+Text+Categorization+Collection
+404: None
+https://archive.ics.uci.edu/datasets/Movie
+404: None
+https://archive.ics.uci.edu/datasets/KDD+Cup+1999+Data
+404: None
+http://kdd.ics.uci.edu/databases/kddcup99/typo-correction.txt
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/KDD+Cup+1998+Data
+404: None
+https://archive.ics.uci.edu/datasets/IPUMS+Census+Database
+404: None
+http://www.ics.uci.edu/~sbay
+404: None
+https://archive.ics.uci.edu/datasets/Insurance+Company+Benchmark+(COIL+2000)
+404: None
+http://kdd.ics.uci.edu/databases/tic/dictionary.txt
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/CMU+Face+Images
+404: None
+https://archive.ics.uci.edu/datasets/Entree+Chicago+Recommendation+Data
+404: None
+https://archive.ics.uci.edu/datasets/El+Nino
+404: None
+https://archive.ics.uci.edu/datasets/EEG+Database
+404: None
+https://archive.ics.uci.edu/datasets/E.+Coli+Genes
+404: None
+https://archive.ics.uci.edu/datasets/Corel+Image+Features
+404: None
+http://www-db.ics.uci.edu/pages/index.shtml
+404: None
+http://kdd.ics.uci.edu/databases/coil/instructions.txt
+608: Denied by domain robot rules.
+https://archive.ics.uci.edu/datasets/Census-Income+(KDD)
+404: None
+https://archive.ics.uci.edu/datasets/US+Census+Data+(1990)
+404: None
+https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990.data.txt
+607: Content too big. 361344227
+https://archive.ics.uci.edu/ml/machine-learning-databases/census1990-mld/USCensus1990raw.data.txt
+607: Content too big. 862858036
+https://archive.ics.uci.edu/datasets/Australian+Sign+Language+signs+(High+Quality)
+404: None
+https://archive.ics.uci.edu/databases/auslan/auslan.data.html
+404: None
+https://archive.ics.uci.edu/datasets/Australian+Sign+Language+signs
+404: None
+https://archive.ics.uci.edu/datasets/Zoo
+404: None
+https://archive.ics.uci.edu/datasets/Yeast
+404: None
+https://archive.ics.uci.edu/datasets/Waveform+Database+Generator+(Version+2)
+404: None
+https://archive.ics.uci.edu/datasets/Waveform+Database+Generator+(Version+1)
+404: None
+https://archive.ics.uci.edu/datasets/Congressional+Voting+Records
+404: None
+https://archive.ics.uci.edu/datasets/Trains
+404: None
+https://archive.ics.uci.edu/datasets/Thyroid+Disease
+404: None
+https://archive.ics.uci.edu/datasets/Tic-Tac-Toe+Endgame
+404: None
+https://archive.ics.uci.edu/datasets/Statlog+Project
+404: None
+https://archive.ics.uci.edu/datasets/SPECTF+Heart
+404: None
+https://archive.ics.uci.edu/datasets/SPECT+Heart
+404: None
+https://archive.ics.uci.edu/datasets/Spambase
+404: None
+https://archive.ics.uci.edu/datasets/Challenger+USA+Space+Shuttle+O-Ring
+404: None
+https://archive.ics.uci.edu/datasets/Soybean+(Small)
+404: None
+https://archive.ics.uci.edu/datasets/Soybean+(Large)
+404: None
+https://archive.ics.uci.edu/datasets/Solar+Flare
+404: None
+https://archive.ics.uci.edu/datasets/Shuttle+Landing+Control
+404: None
+https://archive.ics.uci.edu/datasets/Servo
+404: None
+https://archive.ics.uci.edu/datasets/Primary+Tumor
+404: None
+https://archive.ics.uci.edu/datasets/Post-Operative+Patient
+404: None
+https://archive.ics.uci.edu/datasets/Pen-Based+Recognition+of+Handwritten+Digits
+404: None
+https://archive.ics.uci.edu/datasets/Optical+Recognition+of+Handwritten+Digits
+404: None
+https://archive.ics.uci.edu/datasets/Page+Blocks+Classification
+404: None
+https://archive.ics.uci.edu/datasets/Nursery
+404: None
+https://archive.ics.uci.edu/datasets/Musk+(Version+2)
+404: None
+https://archive.ics.uci.edu/datasets/Musk+(Version+1)
+404: None
+https://archive.ics.uci.edu/datasets/Mushroom
+404: None
+https://archive.ics.uci.edu/datasets/Multiple+Features
+404: None
+https://archive.ics.uci.edu/datasets/MONK's+Problems
+404: None
+https://archive.ics.uci.edu/datasets/Molecular+Biology+(Splice-junction+Gene+Sequences)
+404: None
+https://archive.ics.uci.edu/datasets/Molecular+Biology+(Protein+Secondary+Structure)
+404: None
+https://archive.ics.uci.edu/datasets/Mobile+Robots
+404: None
+https://archive.ics.uci.edu/datasets/Lymphography
+404: None
+https://archive.ics.uci.edu/datasets/Lung+Cancer
+404: None
+https://archive.ics.uci.edu/datasets/Liver+Disorders
+404: None
+https://archive.ics.uci.edu/datasets/Letter+Recognition
+404: None
+https://archive.ics.uci.edu/datasets/Lenses
+404: None
+https://archive.ics.uci.edu/datasets/LED+Display+Domain
+404: None
+https://archive.ics.uci.edu/datasets/Labor+Relations
+404: None
+https://archive.ics.uci.edu/datasets/ISOLET
+404: None
+https://archive.ics.uci.edu/datasets/Ionosphere
+404: None
+https://archive.ics.uci.edu/datasets/Internet+Advertisements
+404: None
+https://archive.ics.uci.edu/datasets/Image+Segmentation
+404: None
+https://archive.ics.uci.edu/datasets/Horse+Colic
+404: None
+https://archive.ics.uci.edu/datasets/Hepatitis
+404: None
+https://archive.ics.uci.edu/datasets/Hayes-Roth
+404: None
+https://archive.ics.uci.edu/datasets/Haberman's+Survival
+404: None
+https://archive.ics.uci.edu/datasets/Glass+Identification
+404: None
+https://archive.ics.uci.edu/datasets/Flags
+404: None
+https://archive.ics.uci.edu/datasets/Ecoli
+404: None
+https://archive.ics.uci.edu/datasets/Echocardiogram
+404: None
+https://archive.ics.uci.edu/datasets/Diabetes
+404: None
+https://archive.ics.uci.edu/datasets/Dermatology
+404: None
+https://archive.ics.uci.edu/datasets/Cylinder+Bands
+404: None
+https://archive.ics.uci.edu/datasets/Covertype
+404: None
+https://archive.ics.uci.edu/datasets/Contraceptive+Method+Choice
+404: None
+https://archive.ics.uci.edu/datasets/Computer+Hardware
+404: None
+https://archive.ics.uci.edu/datasets/Japanese+Credit+Screening
+404: None
+https://archive.ics.uci.edu/datasets/Credit+Approval
+404: None
+https://archive.ics.uci.edu/datasets/Connect-4
+404: None
+https://archive.ics.uci.edu/datasets/Bach+Chorales
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(Domain+Theories)
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(King-Rook+vs.+King)
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(King-Rook+vs.+King-Pawn)
+404: None
+https://archive.ics.uci.edu/datasets/Chess+(King-Rook+vs.+King-Knight)
+404: None
+https://archive.ics.uci.edu/datasets/Census+Income
+404: None
+https://archive.ics.uci.edu/datasets/Pittsburgh+Bridges
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Prognostic)
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer+Wisconsin+(Original)
+404: None
+https://archive.ics.uci.edu/datasets/Breast+Cancer
+404: None
+https://archive.ics.uci.edu/datasets/Balloons
+404: None
+https://archive.ics.uci.edu/datasets/Balance+Scale
+404: None
+https://archive.ics.uci.edu/datasets/Automobile
+404: None
+https://archive.ics.uci.edu/datasets/Auto+MPG
+404: None
+https://archive.ics.uci.edu/datasets/Audiology+(Standardized)
+404: None
+https://archive.ics.uci.edu/datasets/Audiology+(Original)
+404: None
+https://archive.ics.uci.edu/datasets/Arrhythmia
+404: None
+https://archive.ics.uci.edu/datasets/Anonymous+Microsoft+Web+Data
+404: None
+https://archive.ics.uci.edu/datasets/Annealing
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+http://graphics.ics.uci.edu/people.html
+404: None
+http://graphics.ics.uci.edu/upload/TVCGYan.pd
+404: None
+https://www.ics.uci.edu/~agarwal/quadricLoss/arxiv paper
+404: None
+http://asterixdb.ics.uci.edu/sponsors.html
+601: Download Exception HTTPConnectionPool(host='asterixdb.ics.uci.edu', port=80): Max retries exceeded with url: /sponsors.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3da4e0>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://www.ics.uci.edu/~babaks/Site/Home.html
+404: None
+https://www.ics.uci.edu/community/alumni/hall_of_fame/inductees.aspx.php
+404: None
+http://luci.ics.uci.edu/pages/Students/yaodu/yaodu.html
+608: Denied by domain robot rules.
+http://www.ics.uci.edu/~chair/research/novell.html
+404: None
+http://www.ics.uci.edu/~chair/research/clustering.html
+404: None
+https://www.ics.uci.edu/~nalini/ivecg.uci.edu
+403: None
+http://cert.ics.uci.edu/SAFIRE/news.html
+404: None
+http://luci.ics.uci.edu/pages/Students/AmandaCullen/AmandaCullen.html
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/about/facilities/jcleaver@ics.uci.edu
+404: None
+http://www.ics.uci.edu/~dzhang3
+403: None
+http://www.ics.uci.edu/~diy4
+403: None
+http://www.ics.uci.edu/~huw5
+403: None
+http://www.ics.uci.edu/~ehoshi
+403: None
+http://www.ics.uci.edu/~ngallo1
+403: None
+http://www.ics.uci.edu/~eugenig
+403: None
+http://www.ics.uci.edu/~hinaa
+403: None
+https://www.ics.uci.edu/computing/account/new
+404: None
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php?id=21
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+http://graphics.ics.uci.edu/people.html
+404: None
+http://graphics.ics.uci.edu/upload/TVCGYan.pd
+404: None
+https://www.ics.uci.edu/~agarwal/quadricLoss/arxiv paper
+404: None
+http://asterixdb.ics.uci.edu/sponsors.html
+601: Download Exception HTTPConnectionPool(host='asterixdb.ics.uci.edu', port=80): Max retries exceeded with url: /sponsors.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3da4e0>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://www.ics.uci.edu/~babaks/Site/Home.html
+404: None
+https://www.ics.uci.edu/community/alumni/hall_of_fame/inductees.aspx.php
+404: None
+http://luci.ics.uci.edu/pages/Students/yaodu/yaodu.html
+608: Denied by domain robot rules.
+http://www.ics.uci.edu/~chair/research/novell.html
+404: None
+http://www.ics.uci.edu/~chair/research/clustering.html
+404: None
+https://www.ics.uci.edu/~nalini/ivecg.uci.edu
+403: None
+http://cert.ics.uci.edu/SAFIRE/news.html
+404: None
+http://luci.ics.uci.edu/pages/Students/AmandaCullen/AmandaCullen.html
+608: Denied by domain robot rules.
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+http://asterixdb.ics.uci.edu/sponsors.html
+601: Download Exception HTTPConnectionPool(host='asterixdb.ics.uci.edu', port=80): Max retries exceeded with url: /sponsors.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3da4e0>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://www.ics.uci.edu/~babaks/Site/Home.html
+404: None
+https://www.ics.uci.edu/community/alumni/hall_of_fame/inductees.aspx.php
+404: None
+http://luci.ics.uci.edu/pages/Students/yaodu/yaodu.html
+608: Denied by domain robot rules.
+http://www.ics.uci.edu/~chair/research/novell.html
+404: None
+http://www.ics.uci.edu/~chair/research/clustering.html
+404: None
+https://www.ics.uci.edu/~nalini/ivecg.uci.edu
+403: None
+http://cert.ics.uci.edu/SAFIRE/news.html
+404: None
+http://luci.ics.uci.edu/pages/Students/AmandaCullen/AmandaCullen.html
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/about/facilities/jcleaver@ics.uci.edu
+404: None
+http://www.ics.uci.edu/~dzhang3
+403: None
+http://www.ics.uci.edu/~diy4
+403: None
+http://www.ics.uci.edu/~huw5
+403: None
+http://www.ics.uci.edu/~ehoshi
+403: None
+http://www.ics.uci.edu/~ngallo1
+403: None
+http://www.ics.uci.edu/~eugenig
+403: None
+http://www.ics.uci.edu/~hinaa
+403: None
+https://www.ics.uci.edu/computing/account/new
+404: None
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php?id=21
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+http://graphics.ics.uci.edu/people.html
+404: None
+http://graphics.ics.uci.edu/upload/TVCGYan.pd
+404: None
+https://www.ics.uci.edu/~agarwal/quadricLoss/arxiv paper
+404: None
+http://asterixdb.ics.uci.edu/sponsors.html
+601: Download Exception HTTPConnectionPool(host='asterixdb.ics.uci.edu', port=80): Max retries exceeded with url: /sponsors.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3da4e0>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://www.ics.uci.edu/~babaks/Site/Home.html
+404: None
+https://www.ics.uci.edu/community/alumni/hall_of_fame/inductees.aspx.php
+404: None
+http://luci.ics.uci.edu/pages/Students/yaodu/yaodu.html
+608: Denied by domain robot rules.
+http://www.ics.uci.edu/~chair/research/novell.html
+404: None
+http://www.ics.uci.edu/~chair/research/clustering.html
+404: None
+https://www.ics.uci.edu/~nalini/ivecg.uci.edu
+403: None
+http://cert.ics.uci.edu/SAFIRE/news.html
+404: None
+http://luci.ics.uci.edu/pages/Students/AmandaCullen/AmandaCullen.html
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/about/facilities/jcleaver@ics.uci.edu
+404: None
+http://www.ics.uci.edu/~dzhang3
+403: None
+http://www.ics.uci.edu/~diy4
+403: None
+http://www.ics.uci.edu/~huw5
+403: None
+http://www.ics.uci.edu/~ehoshi
+403: None
+http://www.ics.uci.edu/~ngallo1
+403: None
+http://www.ics.uci.edu/~eugenig
+403: None
+http://www.ics.uci.edu/~hinaa
+403: None
+https://www.ics.uci.edu/computing/account/new
+404: None
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php?id=21
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/accounts:password_change_reset
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:kubernetes
+404: None
+https://www.ics.uci.edu/doku.php/virtual_environments:jupyterhub
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:fall-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.ics.uci.edu/ics/community/friends/leadershipcouncil/index
+404: None
+https://www.ics.uci.edu/render/file.act?path=/ics/community/alumni/hall_of_fame/2018-HOF-inductees.jpg
+404: None
+https://www.ics.uci.edu/community/events/minsky/index.php
+404: None
+http://www.ics.uci.edu/informatics/news/news_2006.php
+404: None
+http://www.ics.uci.edu/computerscience/news/news_2006.php
+404: None
+https://sherlock.ics.uci.edu/internal
+401: None
+http://www.ics.uci.edu/~dvk/pub/ICDE09_dvk_demo.html
+403: None
+https://www.ics.uci.edu/faculty/profiles/www.ics.uci.edu
+404: None
+https://www.ics.uci.edu/faculty/www.ics.uci.edu
+404: None
+http://www.ics.uci.edu/~mlevorat/ 
+404: None
+https://www.ics.uci.edu/faculty/profiles/ 
+404: None
+https://www.ics.uci.edu/faculty/ 
+404: None
+http://graphics.ics.uci.edu/people.html
+404: None
+http://graphics.ics.uci.edu/upload/TVCGYan.pd
+404: None
+https://www.ics.uci.edu/~agarwal/quadricLoss/arxiv paper
+404: None
+http://asterixdb.ics.uci.edu/sponsors.html
+601: Download Exception HTTPConnectionPool(host='asterixdb.ics.uci.edu', port=80): Max retries exceeded with url: /sponsors.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3da4e0>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://www.ics.uci.edu/~babaks/Site/Home.html
+404: None
+https://www.ics.uci.edu/community/alumni/hall_of_fame/inductees.aspx.php
+404: None
+http://luci.ics.uci.edu/pages/Students/yaodu/yaodu.html
+608: Denied by domain robot rules.
+http://www.ics.uci.edu/~chair/research/novell.html
+404: None
+http://www.ics.uci.edu/~chair/research/clustering.html
+404: None
+https://www.ics.uci.edu/~nalini/ivecg.uci.edu
+403: None
+http://cert.ics.uci.edu/SAFIRE/news.html
+404: None
+http://luci.ics.uci.edu/pages/Students/AmandaCullen/AmandaCullen.html
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/about/facilities/jcleaver@ics.uci.edu
+404: None
+http://www.ics.uci.edu/~dzhang3
+403: None
+http://www.ics.uci.edu/~diy4
+403: None
+http://www.ics.uci.edu/~huw5
+403: None
+http://www.ics.uci.edu/~ehoshi
+403: None
+http://www.ics.uci.edu/~ngallo1
+403: None
+http://www.ics.uci.edu/~eugenig
+403: None
+http://www.ics.uci.edu/~hinaa
+403: None
+https://www.ics.uci.edu/computing/account/new
+404: None
+http://www.ics.uci.edu/computerscience/research/research_highlight_view.php?id=21
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
+https://www.ics.uci.edu/feed.php
+404: None
+https://www.ics.uci.edu/doku.php/start?do=media&ns=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=revisions
+404: None
+https://www.ics.uci.edu/doku.php/brownbags
+404: None
+https://www.ics.uci.edu/doku.php/slides
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-spring-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:spring-2019
+404: None
+https://www.ics.uci.edu/doku.php/projects:maint-summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/announce:summer-2019
+404: None
+https://www.ics.uci.edu/doku.php/start?do=login&sectok=
+404: None
+https://www.ics.uci.edu/doku.php/start?do=index
+404: None
+https://www.ics.uci.edu/doku.php/start?do=recent
+404: None
+https://www.ics.uci.edu/doku.php/start?do=edit
+404: None
+https://www.ics.uci.edu/doku.php/start
+404: None
+https://www.ics.uci.edu/doku.php/start?do=backlink
+404: None
+https://www.ics.uci.edu/involved/project_class
+404: None
+https://www.ics.uci.edu/ugrad/policies/Academic_Integrity
+404: None
+http://timesheet.ics.uci.edu
+601: Download Exception HTTPConnectionPool(host='timesheet.ics.uci.edu', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f324e3f4080>: Failed to establish a new connection: [Errno -2] Name or service not known')).
+http://labbie.ics.uci.edu/index.php
+403: None
+https://support.ics.uci.edu/sitemap.php
+404: None
+http://www.ics.uci.edu/ugrad/admissions/admissions_why.php
+404: None
+http://www.ics.uci.edu/ugrad/admissions/transfer/index.php
+404: None
+http://www.ics.uci.edu/ugrad/qa/index.php
+404: None
+http://www.ics.uci.edu/ugrad/distribution/index.php
+404: None
+http://www.ics.uci.edu/ugrad/admissions/index.php
+404: None
+http://www.ics.uci.edu/about/videos/index.php
+404: None
+http://www.ics.uci.edu/about/about_facts.php
+404: None
+https://www.ics.uci.edu/%7elab/lab_assistants/job_description.php
+404: None
+https://www.informatics.uci.edu/research/example-research-projects
+608: Denied by domain robot rules.
